@@ -37,7 +37,7 @@ Antes de rodar o projeto, certifique-se de ter instalado:
 
 ### 📥 Clonando o Repositório
 ```sh
- git clone https://github.com/seu-usuario/barbearia-agendamento.git
+ git clone https://github.com/pnascimentodev/barber-shop-api.git
  cd barbearia-agendamento
 ```
 
